@@ -59,7 +59,7 @@ Si un ataque HID logra ejecutarse, dejará rastros claros en los logs del sistem
 * **ID de Evento Sysmon 1:** Creación de procesos con argumentos sospechosos como `-ExecutionPolicy Bypass -WindowStyle Hidden`.
 
 ### Capa 3: Script de Mitigación Automatizado
-> 📂 *En la carpeta `[[Mitigations]]` se incluye un script en PowerShell diseñado para deshabilitar puertos o alertar ante la conexión de IDs de proveedor (VID) sospechosos del ecosistema Digispark.*
+> 📂 *En la carpeta [Mitigations](./Mitigations) se incluye un script en PowerShell diseñado para deshabilitar puertos o alertar ante la conexión de IDs de proveedor (VID) sospechosos del ecosistema Digispark.*
 
 ---
 
