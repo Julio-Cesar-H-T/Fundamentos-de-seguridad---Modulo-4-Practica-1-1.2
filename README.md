@@ -1,4 +1,4 @@
-# ⚡ Digispark HID Attack & Blue Team Defense PoC
+# ⚡ Digispark HID Attack
 
 > **Materia:** Fundamentos de Seguridad
 
