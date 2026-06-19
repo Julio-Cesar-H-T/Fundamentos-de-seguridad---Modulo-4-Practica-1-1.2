@@ -1,8 +1,11 @@
 # ⚡ Digispark HID Attack & Blue Team Defense PoC
 
 > **Materia:** Fundamentos de Seguridad
+
 > **Institución:** Instituto Tecnológico de Las Américas (ITLA)  
+
 > **Autor:** Julio César Hernández Tibrey  
+
 > **Lista de reproducción:** https://www.youtube.com/playlist?list=PL1bMSHFyMPr7kB4MPrFcAFucOFrtLWahD
 
 ---
@@ -37,7 +40,7 @@ El microcontrolador Digispark se programa para que, al ser conectado a un puerto
 3. **Ejecución:** Apertura de una terminal de PowerShell en modo silencioso o bypass.
 4. **Exfiltración/Acceso:** Descarga y ejecución asíncrona de un script secundario en memoria.
 
-> 📂 *Los códigos fuentes del ataque se encuentran en la carpeta `/Payloads`.*
+> 📂 *Los códigos fuentes del ataque se encuentran en la carpeta [Payloads](./Payloads).*
 
 ---
 
